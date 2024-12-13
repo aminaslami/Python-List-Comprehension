@@ -30,7 +30,6 @@ List comprehensions in Python provide a concise way to create lists. They are of
 ![image](https://github.com/user-attachments/assets/00644b61-29ba-4ae2-901e-a9b77e984015)
 
 ## Key Advantages:
-
 **Conciseness:** Makes code more compact.
 
 **Readability:** Once familiar, list comprehensions are easier to read than nested loops.
