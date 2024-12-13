@@ -24,7 +24,10 @@ List comprehensions in Python provide a concise way to create lists. They are of
 **3. Transform Strings to Uppercase:**
 ![image](https://github.com/user-attachments/assets/1b646e7d-a006-4a70-bbec-80117d72e19f)
 
+**4. Nested Loops:**
+![image](https://github.com/user-attachments/assets/5669ee12-1ab9-4ccf-b2bc-08170d800be2)
 
-Nested Loops:
+
+
 
 
