@@ -13,3 +13,7 @@ List comprehensions in Python provide a concise way to create lists. They are of
 **For loop:** Iterates over the iterable.
 
 **Condition (optional):** Filters elements based on a Boolean expression.
+
+
+![image](https://github.com/user-attachments/assets/1b77bc03-bc2d-4c33-b941-62919aa449c7)
+
