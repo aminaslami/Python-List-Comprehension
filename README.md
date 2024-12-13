@@ -42,4 +42,3 @@ If readability suffers, consider using regular for loops.
 
 
 
-
