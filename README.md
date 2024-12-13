@@ -37,7 +37,7 @@ List comprehensions in Python provide a concise way to create lists. They are of
 
 **Readability:** Once familiar, list comprehensions are easier to read than nested loops.
 
-When to Avoid:
+## When to Avoid:
 
 
 
