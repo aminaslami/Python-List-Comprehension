@@ -25,6 +25,6 @@ List comprehensions in Python provide a concise way to create lists. They are of
 ![image](https://github.com/user-attachments/assets/1b646e7d-a006-4a70-bbec-80117d72e19f)
 
 
-
+Nested Loops:
 
 
