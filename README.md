@@ -27,6 +27,9 @@ List comprehensions in Python provide a concise way to create lists. They are of
 **4. Nested Loops:**
 ![image](https://github.com/user-attachments/assets/5669ee12-1ab9-4ccf-b2bc-08170d800be2)
 
+**5. Flatten a Nested List:**
+![image](https://github.com/user-attachments/assets/00644b61-29ba-4ae2-901e-a9b77e984015)
+
 
 
 
