@@ -17,8 +17,10 @@ List comprehensions in Python provide a concise way to create lists. They are of
 ## Examples:
 **1. Create a List of Squares:**
 ![image](https://github.com/user-attachments/assets/1b77bc03-bc2d-4c33-b941-62919aa449c7)
-**3. Filter Even Numbers:**
+
+**2. Filter Even Numbers:**
 ![image](https://github.com/user-attachments/assets/cfb64d2f-e925-4557-a5ac-4dfdb0f1a60e)
+
 **3. Transform Strings to Uppercase:**
 ![image](https://github.com/user-attachments/assets/1b646e7d-a006-4a70-bbec-80117d72e19f)
 
