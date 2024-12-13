@@ -9,5 +9,7 @@ List comprehensions in Python provide a concise way to create lists. They are of
 
 ### Components:
 **Expression:** Defines what to do with each element (e.g., modify or transform).
+
 **For loop:** Iterates over the iterable.
+
 **Condition (optional):** Filters elements based on a Boolean expression.
