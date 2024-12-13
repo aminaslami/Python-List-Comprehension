@@ -1,4 +1,4 @@
-# Python-List-Comprehension
+# Python List-Comprehension
 
 # Source: https://chatgpt.com/c/675c278d-d440-8009-b942-875b83c18179
 
