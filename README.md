@@ -7,7 +7,7 @@ List comprehensions in Python provide a concise way to create lists. They are of
 
     [expression for item in iterable if condition]
 
-### Components:
+## Components:
 **Expression:** Defines what to do with each element (e.g., modify or transform).
 
 **For loop:** Iterates over the iterable.
