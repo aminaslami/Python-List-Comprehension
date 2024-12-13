@@ -5,6 +5,6 @@
 
 List comprehensions in Python provide a concise way to create lists. They are often used to apply some operation to each element of a sequence or to filter elements based on a condition. The basic syntax (Below):
 
-[expression for item in iterable if condition]
+    [expression for item in iterable if condition]
 
 
