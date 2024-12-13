@@ -37,6 +37,7 @@ List comprehensions in Python provide a concise way to create lists. They are of
 
 ## When to Avoid:
 When the comprehension becomes too complex (e.g., deeply nested or hard to understand).
+
 If readability suffers, consider using regular for loops.
 
 
